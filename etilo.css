@@ -7,7 +7,7 @@ body {
 }
 
 .principal{
-	background: #CCCCCC;
+	background: #3a86ab;
 	padding: 30px;
 }
 
@@ -24,11 +24,11 @@ p {
 }
 
 #missao {
-	font-size: 20px
+	font-size: 20px;
 }
 
 em strong {
-	color: #FF0000;
+	color: #ff0000;
 }
 
 .itens {
@@ -49,4 +49,4 @@ ul {
 
 .imagembeneficios {
 	width: 50%;
-}barba.
+}
